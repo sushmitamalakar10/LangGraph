@@ -1,0 +1,12 @@
+dotenv
+langgraph
+langchain
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+huggingface_hub
+langchain-classic
+langchain-groq
+streamlit
+gradio
